@@ -1,0 +1,16 @@
+.card {
+  border-radius: 24px;
+  background: linear-gradient(45deg, #da86e0, #ff9fff);
+  box-shadow: 6px -6px 12px #dc88e3, -6px 6px 12px #ffa2ff;
+  padding: 8px;
+}
+
+.card h3 {
+  text-align: center;
+}
+
+/* .card :hover {
+  border-radius: ; 
+  background: linear-gradient(145deg, #e1930c, #3dff2b);
+  box-shadow: 29px 29px 58px #09956b, -29px -29px 58px #15fff5;
+} */
